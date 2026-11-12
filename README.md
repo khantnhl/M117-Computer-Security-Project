@@ -1,7 +1,7 @@
 # M117-Computer-Security-Project
 
 # Create virtual environment
-python3.11 -m venv .venv
+python -m venv .venv
 
 # Activate environment (macOS/Linux)
 source .venv/bin/activate
