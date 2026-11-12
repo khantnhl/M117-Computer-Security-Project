@@ -1,0 +1,10 @@
+benchmark:
+  suite: workspace
+  user_task: user_task_0
+
+model:
+  name: GPT_4O_MINI_2024_07_18
+
+experiment:
+  attack: tool_knowledge
+  defense: tool_filter
